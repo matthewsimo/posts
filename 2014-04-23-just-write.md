@@ -1,6 +1,6 @@
 <!--
 {
-  "title": "Just Write",
+  "title": "Just Write"
 }
 -->
 

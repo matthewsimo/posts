@@ -1,6 +1,6 @@
 <!--
 {
-  "title": "Quick Scripts, or why I love JavaScript",
+  "title": "Quick Scripts, or why I love JavaScript"
 }
 -->
 

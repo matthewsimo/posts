@@ -1,6 +1,6 @@
 <!--
 {
-  "title": "Houston Bound",
+  "title": "Houston Bound"
 }
 -->
 
