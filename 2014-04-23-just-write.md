@@ -1,6 +1,7 @@
 <!--
 {
-  "title": "Just Write"
+  "title": "Just Write",
+  "tags": ['writing', 'personal']
 }
 -->
 

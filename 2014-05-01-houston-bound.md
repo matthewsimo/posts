@@ -1,6 +1,7 @@
 <!--
 {
-  "title": "Houston Bound"
+  "title": "Houston Bound",
+  "tags": ['life', 'personal']
 }
 -->
 
@@ -29,6 +30,6 @@ My wife Vy is a smart lady, she recently applied and was accepted to the TWU Occ
 
 Anyways, that's where we're at. Big changes coming, but exciting stuff. We've told some people, but I wanted to write this to serve as a notice to anyone we might have missed. 
 
-We definitely want to be able to say goodbye to all our friends, be sure and reach out if we havne't already made plans!
+We definitely want to be able to say goodbye to all our friends, be sure and reach out if we haven't already made plans!
 
 
