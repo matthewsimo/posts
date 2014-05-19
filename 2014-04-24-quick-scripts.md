@@ -1,7 +1,7 @@
 <!--
 {
   "title": "Quick Scripts, or why I love JavaScript",
-  "tags": ['javascript', 'code', 'github']
+  "tags": ["javascript", "code", "github"]
 }
 -->
 

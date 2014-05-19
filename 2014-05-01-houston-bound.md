@@ -1,7 +1,7 @@
 <!--
 {
   "title": "Houston Bound",
-  "tags": ['life', 'personal']
+  "tags": ["life", "personal"]
 }
 -->
 

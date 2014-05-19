@@ -1,7 +1,7 @@
 <!--
 {
   "title": "Just Write",
-  "tags": ['writing', 'personal']
+  "tags": ["writing", "personal"]
 }
 -->
 
