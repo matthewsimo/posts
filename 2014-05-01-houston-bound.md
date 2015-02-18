@@ -12,7 +12,7 @@ This city is great, I became an adult here, started a career here, forged friend
 
 Dallas will always be a special place for me, I still think it's a largely underrated city. Tons of great restaurants, good bars, local breweries, cool parks. The traffic doesn't suck nearly as bad as some other places. Places such as Houston... 
 
-My wife Vy is a smart lady, she recently applied and was accepted to the TWU Occupational Therapy program in Houston. She starts this fall, and as a result we're picking up and moving back down to Houson.
+My wife, Vy, is a smart lady. She recently applied and was accepted to the TWU Occupational Therapy program in Houston. She starts this fall, and as a result we're picking up and moving back down to Houson.
 
 ### The good stuff:
 
